@@ -55,9 +55,9 @@
 
 ### <p align=center> Оцениваем качество </p>
 #### <p align=center> Исходные чтения </p>
-<img src=""/>
-<img src=""/>
+<img src="https://github.com/yaraksen/hse22_hw1/blob/master/images/general_stats"/>
+<img src="https://github.com/yaraksen/hse22_hw1/blob/master/images/per_seq_stats"/>
 
 #### <p align=center> Подрезанные чтения </p>
-<img src="" />
-<img src="" />
+<img src="https://github.com/yaraksen/hse22_hw1/blob/master/images/trim_general_stats"/>
+<img src="https://github.com/yaraksen/hse22_hw1/blob/master/images/trim_per_seq_stats"/>
